@@ -4,7 +4,6 @@
     <img src="https://www.sellercommunity.com/t5/image/serverpage/image-id/1799i260EF3229A56D6C3?v=1.0"
          alt="Hello-Pengu" width="40"/>
 </h1>
-<hr>
 
 My name is Yannik. I am a self-taught full stack developer from Germany. I usually work on projects after school and
 sometimes in school with [@TECKdigital](https://github.com/Teck-Digital), which is a school company I co-founded. I will soon be studying IBAIT 
@@ -12,7 +11,6 @@ sometimes in school with [@TECKdigital](https://github.com/Teck-Digital), which 
 you can check out my website at https://h4hn.de!
 
 ## Github Stats
-<hr>
 
 A quick note on my profile - most of my project's repositories are and have to unfortunately remain private because
 they contain sensible information. If you want to know what I am currently working on, you should check out my website. 
@@ -23,7 +21,6 @@ I am, however, looking forward towards creating more open source code in the nea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsZiroy&layout=compact&bg_color=11143B&text_color=fff&title_color=F70098&hide_border=true&card_width=445)
 
 ## Languages and Tools
-<hr>
 
 Here are the programming languages I feel comfortable at and tools I like to use while working:
 
@@ -45,5 +42,3 @@ Here are the programming languages I feel comfortable at and tools I like to use
 <code><img src="assets/icons/tools/apache.svg" width="30"/></code>
 <code><img src="assets/icons/tools/webpack.svg" width="30"/></code>
 <code><img src="assets/icons/tools/yarn.svg" width="30"/></code>
-
-<hr>
