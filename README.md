@@ -5,9 +5,8 @@
          alt="Hello-Pengu" width="40"/>
 </h1>
 
-My name is Yannik. I am a self-taught full stack developer from Germany. I usually work on projects after school and
-sometimes in school with [@TECKdigital](https://github.com/Teck-Digital), which is a school company I co-founded. I will soon be studying IBAIT 
-(Internation Business Administration and Information Technology) at SAP Germany. If you want to learn more about me, 
+My name is Yannik. I am a self-taught full stack developer from Germany. I am studying IBAIT 
+(Internation Business Administration and Information Technology) at SAP Germany. Apart from that I work on [@TECKdigital](https://github.com/Teck-Digital), which is a school company I co-founded. If you want to learn more about me, 
 you can check out my website at https://h4hn.de!
 
 ## Github Stats
